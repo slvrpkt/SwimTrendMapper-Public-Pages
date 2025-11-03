@@ -1,1 +1,99 @@
-Privacy Policy  
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy – SwimTrendMapper</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 40px;
+      max-width: 800px;
+    }
+    h1, h2 {
+      color: #2c3e50;
+    }
+    p {
+      margin-bottom: 1em;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Privacy Policy for SwimTrendMapper</h1>
+  <p><strong>Effective Date:</strong> November 3, 2025<br>
+     <strong>Last Updated:</strong> November 3, 2025<br>
+     <strong>Owner:</strong> Individual Developer, Maryland, United States</p>
+
+  <h2>1. Introduction</h2>
+  <p>SwimTrendMapper (“we,” “us,” or “our”) is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our mobile application. By using SwimTrendMapper, you agree to the terms of this Privacy Policy.</p>
+
+  <h2>2. Information We Collect</h2>
+  <p>Currently, SwimTrendMapper does <strong>not collect any personal data or analytics</strong>. However, in future updates, we may collect the following information:</p>
+  <ul>
+    <li><strong>Personal Identifiers:</strong> First name, last name, email address, phone number, social media handles</li>
+    <li><strong>Usage Data:</strong> App interactions, session duration, device type</li>
+    <li><strong>Payment Information:</strong> For subscription services after the initial 6-month free period</li>
+  </ul>
+  <p>We will update this Privacy Policy before any such data collection begins.</p>
+
+  <h2>3. How We Use Your Information</h2>
+  <p>When data collection begins, we may use your information to:</p>
+  <ul>
+    <li>Provide and improve app functionality</li>
+    <li>Send service-related communications</li>
+    <li>Display personalized advertisements</li>
+    <li>Offer subscription services</li>
+    <li>Conduct remarketing and advertising campaigns</li>
+  </ul>
+
+  <h2>4. Legal Bases for Processing (GDPR)</h2>
+  <p>If you are located in the European Economic Area (EEA), we process your personal data under the following legal bases:</p>
+  <ul>
+    <li>Consent</li>
+    <li>Performance of a contract</li>
+    <li>Legal obligation</li>
+    <li>Legitimate interests</li>
+  </ul>
+
+  <h2>5. Your Rights</h2>
+  <h3>Under GDPR, you have the right to:</h3>
+  <ul>
+    <li>Access, correct, or delete your personal data</li>
+    <li>Object to or restrict processing</li>
+    <li>Data portability</li>
+    <li>Withdraw consent at any time</li>
+  </ul>
+
+  <h3>Under CCPA/CPRA, California residents have the right to:</h3>
+  <ul>
+    <li>Know what personal data we collect</li>
+    <li>Request deletion of personal data</li>
+    <li>Opt out of the sale or sharing of personal data</li>
+    <li>Non-discrimination for exercising privacy rights</li>
+  </ul>
+
+  <h3>Under CalOPPA, we disclose:</h3>
+  <ul>
+    <li>Our privacy policy is linked within the app</li>
+    <li>Users can contact us via the FAQ and Contact page</li>
+    <li>We honor Do Not Track signals (when implemented)</li>
+  </ul>
+
+  <h2>6. Children’s Privacy</h2>
+  <p>SwimTrendMapper is <strong>not intended for users under the age of 13</strong>. We do not knowingly collect personal information from children under 13. If we learn that we have inadvertently collected such data, we will delete it <strong>as soon as possible once we notice it</strong>.</p>
+
+  <h2>7. Data Retention</h2>
+  <p>We will retain your personal data only as long as necessary to fulfill the purposes outlined in this policy, or as required by law.</p>
+
+  <h2>8. Third-Party Services</h2>
+  <p>In future versions, we may use third-party services for analytics, advertising, and remarketing. These services may collect data independently and are governed by their own privacy policies.</p>
+
+  <h2>9. Changes to This Policy</h2>
+  <p>We may update this Privacy Policy from time to time. Changes will be reflected in the “Last Updated” date and communicated via the app.</p>
+
+  <h2>10. Contact Us</h2>
+  <p>If you have questions or concerns about this Privacy Policy, please reach out via the <strong>FAQ or Contact page</strong> within the SwimTrendMapper app.</p>
+
+</body>
+</html>
